@@ -1,0 +1,257 @@
+column,description,year,units
+FIPS,4-5 digit state and county FIPS code,,
+state,state name,,
+county,county name,,
+housing_units,housing units,,units
+area_land,land area,,sq. mi.
+area_water,water area,,sq. mi.
+lat,latitude,,
+long,longitude,,
+votes_clinton,number of votes cast for Hillary Clinton,2016,people
+votes_trump,number of votes cast for Donald Trump,2016,people
+votes_total ,total number of votes cast for president,2016,people
+pop,population,2016 (estimated),people
+pop_male,male population,2016 (estimated),people
+pop_female,female population,2016 (estimated),people
+white_male,white-alone male population,2016 (estimated),people
+white_female,white-alone female population,2016 (estimated),people
+black_male,black/African American-alone male population,2016 (estimated),people
+black_female,black/African American-alone female population,2016 (estimated),people
+amerindian_male,American Indian and Alaska Native-alone male population,2016 (estimated),people
+amerindian_female,American Indian and Alaska Native-alone female population,2016 (estimated),people
+asian_male,Asian-alone male population,2016 (estimated),people
+asian_female,Asian-alone female population,2016 (estimated),people
+pacific_male,Native Hawaiian and other Pacific Islander-alone male population,2016 (estimated),people
+pacific_female,Native Hawaiian and other Pacific Islander-alone female population,2016 (estimated),people
+multiracial_male,two or more races male population,2016 (estimated),people
+multiracial_female,two or more races female population,2016 (estimated),people
+hispanic_male,hispanic male population,2016 (estimated),people
+hispanic_female,hispanic female population,2016 (estimated),people
+pop_0to4,Age 0 to 4 population,2016 (estimated),people
+pop_0to4_male,Age 0 to 4 male population,2016 (estimated),people
+pop_0to4_female,Age 0 to 4 female population,2016 (estimated),people
+pop_5to9,Age 5 to 9 population,2016 (estimated),people
+pop_5to9_male,Age 5 to 9 male population,2016 (estimated),people
+pop_5to9_female,Age 5 to 9 female population,2016 (estimated),people
+pop_10to14,Age 10 to 14 population,2016 (estimated),people
+pop_10to14_male,Age 10 to 14 male population,2016 (estimated),people
+pop_10to14_female,Age 10 to 14 female population,2016 (estimated),people
+pop_15to19,Age 15 to 19 population,2016 (estimated),people
+pop_15to19_male,Age 15 to 19 male population,2016 (estimated),people
+pop_15to19_female,Age 15 to 19 female population,2016 (estimated),people
+pop_20to24,Age 20 to 24 population,2016 (estimated),people
+pop_20to24_male,Age 20 to 24 male population,2016 (estimated),people
+pop_20to24_female,Age 20 to 24 female population,2016 (estimated),people
+pop_25to29,Age 25 to 29 population,2016 (estimated),people
+pop_25to29_male,Age 25 to 29 male population,2016 (estimated),people
+pop_25to29_female,Age 25 to 29 female population,2016 (estimated),people
+pop_30to34,Age 30 to 34 population,2016 (estimated),people
+pop_30to34_male,Age 30 to 34 male population,2016 (estimated),people
+pop_30to34_female,Age 30 to 34 female population,2016 (estimated),people
+pop_35to39,Age 35 to 39 population,2016 (estimated),people
+pop_35to39_male,Age 35 to 39 male population,2016 (estimated),people
+pop_35to39_female,Age 35 to 39 female population,2016 (estimated),people
+pop_40to44,Age 40 to 44 population,2016 (estimated),people
+pop_40to44_male,Age 40 to 44 male population,2016 (estimated),people
+pop_40to44_female,Age 40 to 44 female population,2016 (estimated),people
+pop_45to49,Age 45 to 49 population,2016 (estimated),people
+pop_45to49_male,Age 45 to 49 male population,2016 (estimated),people
+pop_45to49_female,Age 45 to 49 female population,2016 (estimated),people
+pop_50to54,Age 50 to 54 population,2016 (estimated),people
+pop_50to54_male,Age 50 to 54 male population,2016 (estimated),people
+pop_50to54_female,Age 50 to 54 female population,2016 (estimated),people
+pop_55to59,Age 55 to 59 population,2016 (estimated),people
+pop_55to59_male,Age 55 to 59 male population,2016 (estimated),people
+pop_55to59_female,Age 55 to 59 female population,2016 (estimated),people
+pop_60to64,Age 60 to 64 population,2016 (estimated),people
+pop_60to64_male,Age 60 to 64 male population,2016 (estimated),people
+pop_60to64_female,Age 60 to 64 female population,2016 (estimated),people
+pop_65to69,Age 65 to 69 population,2016 (estimated),people
+pop_65to69_male,Age 65 to 69 male population,2016 (estimated),people
+pop_65to69_female,Age 65 to 69 female population,2016 (estimated),people
+pop_70to74,Age 70 to 74 population,2016 (estimated),people
+pop_70to74_male,Age 70 to 74 male population,2016 (estimated),people
+pop_70to74_female,Age 70 to 74 female population,2016 (estimated),people
+pop_75to79,Age 75 to 79 population,2016 (estimated),people
+pop_75to79_male,Age 75 to 79 male population,2016 (estimated),people
+pop_75to79_female,Age 75 to 79 female population,2016 (estimated),people
+pop_80to84,Age 80 to 84 population,2016 (estimated),people
+pop_80to84_male,Age 80 to 84 male population,2016 (estimated),people
+pop_80to84_female,Age 80 to 84 female population,2016 (estimated),people
+pop_85plus,Age 85 or older population,2016 (estimated),people
+pop_85plus_male,Age 85 or older male population,2016 (estimated),people
+pop_85plus_female,Age 85 or older female population,2016 (estimated),people
+OASDI_ben_total,OASDI beneficiaries,2015,people
+OASDI_ben_retirement_workers,OASDI retirement worker beneficiaries,2015,people
+OASDI_ben_retirement_spouses,OASDI retirement worker spouse beneficiaries,2015,people
+OASDI_ben_retirement_children,OASDI retirement worker child beneficiaries,2015,people
+OASDI_ben_survivors_widows_parents,"OASDI survivor widow, widower, & parent beneficiaries",2015,people
+OASDI_ben_survivors_children,OASDI survivor child beneficiaries,2015,people
+OASDI_ben_disability_workers,OASDI disability worker beneficiaries,2015,people
+OASDI_ben_disability_spouses,OASDI disability spouse beneficiaries,2015,people
+OASDI_ben_disability_children,OASDI disability child beneficiaries,2015,people
+OASDI_ben_age65_M,OASDI age 65 or older male beneficiaries,2015,people
+OASDI_ben_age65_F,OASDI age 65 or older female beneficiaries,2015,people
+OASDI_pay_total,OASDI payments,2015,$ (thousands)
+OASDI_pay_retirement_workers,OASDI retirement worker payments,2015,$ (thousands)
+OASDI_pay_retirement_spouses,OASDI retirement worker spouse payments,2015,$ (thousands)
+OASDI_pay_retirement_children,OASDI retirement worker child payments,2015,$ (thousands)
+OASDI_pay_survivors_widows_parents,"OASDI survivor widow, widower, & parent payments",2015,$ (thousands)
+OASDI_pay_survivors_children,OASDI survivor child payments,2015,$ (thousands)
+OASDI_pay_disability_workers,OASDI disability worker payments,2015,$ (thousands)
+OASDI_pay_disability_spouses,OASDI disability spouse payments,2015,$ (thousands)
+OASDI_pay_disability_children,OASDI disability child payments,2015,$ (thousands)
+OASDI_pay_age65_M,OASDI age 65 or older male payments,2015,$ (thousands)
+OASDI_pay_age65_F,OASDI age 65 or older female payments,2015,$ (thousands)
+SAIPE_poverty,SAIPE poverty population,2015,people
+SAIPE_poverty_0to4,SAIPE poverty population (age 0 to 4),2015,people
+SAIPE_poverty_5to17,SAIPE poverty population (age 5 to 17),2015,people
+SAIPE_median_hhi,SAIPE median household income,2015,$
+SSI_total,SSI recipients,2015,people
+SSI_aged,SSI recipients (aged),2015,people
+SSI_blind_disabled,SSI recipients (blind/disabled),2015,people
+SSI_age_0to18,SSI recipients (age 0 to 18),2015,people
+SSI_age_0to18,SSI recipients (age 18 to 64),2015,people
+SSI_age_0to18,SSI recipients (age 65 and over),2015,people
+SSI_and_OASDI,SSI recipients who also receive OASDI,2015,people
+SSI_pay,SSI payments,2015,$ (thousands)
+DM_deaths_drug,drug deaths (from Underlying Cause of Death Detailed Mortality dataset),2015,people
+DM_crude_rate_drug,crude rate of drug deaths (from Underlying Cause of Death Detailed Mortality dataset),2015,per 100000 
+DM_age_adj_rate_drug,age adjusted rate of drug deaths (from Underlying Cause of Death Detailed Mortality dataset),2015,per 100000 
+DM_deaths_all,all deaths (from Underlying Cause of Death Detailed Mortality dataset),2015,people
+DM_crude_rate_all,crude rate of all deaths (from Underlying Cause of Death Detailed Mortality dataset),2015,per 100000 
+DM_age_adj_rate_all,age adjusted rate of all deaths (from Underlying Cause of Death Detailed Mortality dataset),2015,per 100000 
+CM_deaths_opiates,opioid deaths (from Underlying Cause of Death Compressed Mortality dataset),2015,people
+CM_crude_rate_opiates,crude rate of opioid deaths (from Underlying Cause of Death Compressed Mortality dataset),2015,per 100000 
+CM_age_adj_rate_opiates,age adjusted rate of opioid deaths (from Underlying Cause of Death Compressed Mortality dataset),2015,per 100000 
+CM_deaths_all,all deaths (from Underlying Cause of Death Compressed Mortality dataset),2015,people
+CM_crude_rate_all,crude rate of all deaths (from Underlying Cause of DeathCompressed Mortality dataset),2015,per 100000 
+CM_age_adj_rate_all,age adjusted rate of all deaths (from Underlying Cause of Death Compressed Mortality dataset),2015,per 100000 
+uninsured,individuals without health insurance ,2015,people
+insured,individuals with health insurance,2015,people
+partd_prescribers,Medicare Part D prescribers,2014,people
+partd_claims_opioid,Medicare Part D opioid claims,2014,units
+partd_claims_all,Medicare Part D claims,2014,units
+IRS_returns,IRS total returns,,units
+IRS_single,IRS single returns,,units
+IRS_joint,IRS joint returns,,units
+IRS_headofhousehold,IRS head of household returns,,units
+IRS_paid_prep,IRS returns with paid preparer’s signature,,units
+IRS_exemptions,IRS number of exemptions,,units
+IRS_dependents,IRS number of dependents,,units
+IRS_vol_prep,IRS returns with voluntary preparer,,units
+IRS_vita_prep,IRS volunteer income tax assistance (VITA) prepared returns,,units
+IRS_tce_prep,IRS tax counseling for the elderly (ICE) prepared returns,,units
+IRS_AGI,IRS adjusted gross income (AGI),,$ (thousands)
+IRS_all_inc_num,IRS number of returns with total income,,units
+IRS_all_inc_amt,IRS amount of total income,,$ (thousands)
+IRS_salaries_num,IRS number of returns with salaries and wages in AGI,,units
+IRS_salaries_amt,IRS amount of salaries and wages in AGI,,$ (thousands)
+IRS_interest_num,IRS number of returns with taxable interest,,units
+IRS_interest_amt,IRS amount of taxable interest,,$ (thousands)
+IRS_ord_div_num,IRS number of returns with ordinary dividends,,units
+IRS_ord_div_amt,IRS amount of ordinary dividends,,$ (thousands)
+IRS_qual_div_num,IRS number of returns with qualified dividends,,units
+IRS_qual_div_amt,IRS amount of qualified dividends,,$ (thousands)
+IRS_state_loc_ref_num,IRS number of returns with state and local income tax refunds,,units
+IRS_state_loc_ref_amt,IRS amount of state and local income tax refunds,,$ (thousands)
+IRS_bus_num,IRS number of returns with business or profession net income,,units
+IRS_bus_amt,IRS amount of business or profession net income,,$ (thousands)
+IRS_capgain_num,IRS number of returns with net capital gain,,units
+IRS_capgain_amt,IRS amount of net capital gain,,$ (thousands)
+IRS_indivret_num,IRS number of returns with taxable individual retirement arrangement distributions,,units
+IRS_indivret_amt,IRS amount of taxable individual retirement arrangement distributions,,$ (thousands)
+IRS_pension_num,IRS number of returns with pensions and annuities,,units
+IRS_pension_amt,IRS amount of pensions and annuities,,$ (thousands)
+IRS_farm_num,IRS number of farm returns,,units
+IRS_unemp_num,IRS number of returns with unemployment compensation,,units
+IRS_unemp_amt,IRS amount of unemployment compensation,,$ (thousands)
+IRS_ss_num,IRS number of returns with taxable Social Security benefits,,units
+IRS_ss_amt,IRS amount of taxable Social Security benefits,,$ (thousands)
+IRS_scorp_num,IRS number of returns with partnership/S-corp net income,,units
+IRS_scorp_amt,IRS amount of partnership/S-corp net income,,$ (thousands)
+IRS_stat_num,IRS number of returns with total statuory adjustments,,units
+IRS_stat_amt,IRS amount of total statuory adjustments,,$ (thousands)
+IRS_ed_num,IRS number of returns with educator expenses,,units
+IRS_ed_amt,IRS amount of educator expenses,,$ (thousands)
+IRS_se_num,IRS number of returns with self-employment retirement plans,,units
+IRS_se_amt,IRS amount of self-employment retirement plans,,$ (thousands)
+IRS_sehi_num,IRS number of returns with self-employment health insurance deduction,,units
+IRS_sehi_amt,IRS amount of self-employment health insurance deduction,,$ (thousands)
+IRS_ira_num,IRS number of returns with IRA payments,,units
+IRS_ira_amt,IRS amount of IRA payments,,$ (thousands)
+IRS_sloan_num,IRS number of returns with student loan interest deduction,,units
+IRS_sloan_amt,IRS amount of student loan interest deduction,,$ (thousands)
+IRS_tuition_num,IRS number of returns with tuition and fees deduction,,units
+IRS_tuition_amt,IRS amount of tuition and fees deduction,,$ (thousands)
+IRS_prod_num,IRS number of returns with domestic production activities deduction,,units
+IRS_prod_amt,IRS amount of domestic production activities deduction,,$ (thousands)
+IRS_item_num,IRS number of returns with total itemized deductions,,units
+IRS_item_amt,IRS amount of total itemized deductions,,$ (thousands)
+IRS_item_amt_agi,IRS amount of AGI of total itemized deductions,,
+IRS_state_loc_num,IRS number of returns with state and local income taxes,,units
+IRS_state_loc_amt,IRS amount of state and local income taxes,,$ (thousands)
+IRS_sales_num,IRS number of returns with state and local general sales taxes,,units
+IRS_sales_amt,IRS amount of state and local general sales taxes,,$ (thousands)
+IRS_re_num,IRS number of returns with real estate taxes,,units
+IRS_re_amt,IRS amount of real estate taxes,,$ (thousands)
+IRS_taxes_num,IRS number of returns with taxes paid,,units
+IRS_taxes_amt,IRS amount of taxes paid,,$ (thousands)
+IRS_mortgage_num,IRS number of returns with mortgage interest paid,,units
+IRS_mortgage_amt,IRS amount of mortgage interest paid,,$ (thousands)
+IRS_contr_num,IRS number of returns with contributions,,units
+IRS_contr_amt,IRS amount of contributions,,$ (thousands)
+IRS_taxable_num,IRS number of returns with taxable income,,units
+IRS_taxable_amt,IRS amount of taxable income,,$ (thousands)
+IRS_tax_bef_cred_num,IRS number of returns with income tax before credits,,units
+IRS_tax_bef_cred_amt,IRS amount of income tax before credits,,$ (thousands)
+IRS_amt_num,IRS number of returns with alternative minimum tax,,units
+IRS_amt_amt,IRS amount of alternative minimum tax,,$ (thousands)
+IRS_exaptc_num,IRS number of returns with excess advance premium tax credit repayment,,units
+IRS_exaptc_amt,IRS amount of excess advance premium tax credit repayment,,$ (thousands)
+IRS_tax_cred_num,IRS number of returns with total tax credits,,units
+IRS_tax_cred_amt,IRS amount of total tax credits,,$ (thousands)
+IRS_foreign_num,IRS number of returns with foreign tax credit,,units
+IRS_foreign_amt,IRS amount of foreign tax credit,,$ (thousands)
+IRS_child_num,IRS number of returns with child and dependent care credit,,units
+IRS_child_amt,IRS amount of child and dependent care credit,,$ (thousands)
+IRS_ed_cred_num,IRS number of returns with nonrefundable education credit,,units
+IRS_ed_cred_amt,IRS amount of nonrefundable education credit,,$ (thousands)
+IRS_ret_sav_num,IRS number of returns with retirement savings contribution credit,,units
+IRS_ret_sav_amt,IRS amount of retirement savings contribution credit,,$ (thousands)
+IRS_ctc_num,IRS number of returns with child tax credit,,units
+IRS_ctc_amt,IRS amount of child tax credit,,$ (thousands)
+IRS_energy_num,IRS number of returns with residential energy tax credit,,units
+IRS_energy_amt,IRS amount of residential energy tax credit,,$ (thousands)
+IRS_set_num,IRS number of returns with self-employment tax,,units
+IRS_set_amt,IRS amount of self-employment tax,,$ (thousands)
+IRS_ptc_num,IRS number of returns with total premium tax credit,,units
+IRS_ptc_amt,IRS amount of total premium tax credit,,$ (thousands)
+IRS_aptc_num,IRS number of returns with advance premium tax credit,,units
+IRS_aptc_amt,IRS amount of advance premium tax credit,,$ (thousands)
+IRS_hcir_num,IRS number of returns with health care individual responsibility payment,,units
+IRS_hcir_amt,IRS amount of health care individual responsibility payment,,$ (thousands)
+IRS_ttp_num,IRS number of returns with total tax payments,,units
+IRS_ttp_amt,IRS amount of total tax payments,,$ (thousands)
+IRS_eic_num,IRS number of returns with earned income credit,,units
+IRS_eic_amt,IRS amount of earned income credit,,$ (thousands)
+IRS_exeic_num,IRS number of returns with excess earned income credit,,units
+IRS_exeic_amt,IRS amount of excess earned income credit,,$ (thousands)
+IRS_actc_num,IRS number of returns with additional child tax credit,,units
+IRS_actc_amt,IRS amount of additional child tax credit,,$ (thousands)
+IRS_red_num,IRS number of returns with refundable education credit,,units
+IRS_red_amt,IRS amount of refundable education credit,,$ (thousands)
+IRS_net_ptc_num,IRS number of returns with net premium tax credit,,units
+IRS_net_ptc_amt,IRS amount of net premium tax credit,,$ (thousands)
+IRS_ic_num,IRS number of returns with income tax,,units
+IRS_ic_amt,IRS amount of income tax,,$ (thousands)
+IRS_tl_num,IRS number of returns with total tax liability,,units
+IRS_tl_amt,IRS amount of total tax liability,,$ (thousands)
+IRS_medicare_num,IRS number of returns with additional Medicare tax,,units
+IRS_medicare_amt,IRS amount of additional Medicare tax,,$ (thousands)
+IRS_net_iit_num,IRS number of returns with net investment income tax,,units
+IRS_net_iit_amt,IRS amount of net investment income tax,,$ (thousands)
+IRS_due_num,IRS number of returns with tax due at time of filing,,units
+IRS_due_amt,IRS amount of tax due at time of filing,,$ (thousands)
+IRS_refund_num,IRS number of returns with overpayments refunded,,units
+IRS_refund_amt,IRS amount of overpayments refunded,,$ (thousands)
