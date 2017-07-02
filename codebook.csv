@@ -129,9 +129,12 @@ CM_crude_rate_all,crude rate of all deaths (from Underlying Cause of DeathCompre
 CM_age_adj_rate_all,age adjusted rate of all deaths (from Underlying Cause of Death Compressed Mortality dataset),2015,per 100000 
 uninsured,individuals without health insurance ,2015,people
 insured,individuals with health insurance,2015,people
-partd_prescribers,Medicare Part D prescribers,2014,people
-partd_claims_opioid,Medicare Part D opioid claims,2014,units
-partd_claims_all,Medicare Part D claims,2014,units
+partd_prescribers_2013,Medicare Part D prescribers (2013),2013,people
+partd_claims_opioid_2013,Medicare Part D opioid claims (2013),2013,units
+partd_claims_all_2013,Medicare Part D claims (2013),2013,units
+partd_prescribers_2014,Medicare Part D prescribers (2014),2014,people
+partd_claims_opioid_2014,Medicare Part D opioid claims (2014),2014,units
+partd_claims_all_2014,Medicare Part D claims (2014),2014,units
 IRS_returns,IRS total returns,,units
 IRS_single,IRS single returns,,units
 IRS_joint,IRS joint returns,,units
